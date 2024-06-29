@@ -10,7 +10,7 @@
           </h2>
           <blockquote>
             <p class="location">
-              <span class="glyphicon glyphicon-map-marker"></span> Paseo Maritimi, 72 Cabo De Gata
+              <span class="glyphicon glyphicon-map-marker"></span> Paseo Marítimo, 72 Cabo De Gata
             </p>
             <p>
               Te brindamos total comodidad. Date prisa ahora para alquilar tu apartamento.
@@ -27,7 +27,7 @@
           </h2>
           <blockquote>
             <p class="location">
-              <span class="glyphicon glyphicon-map-marker"></span> Paseo Maritimi, 72 Cabo De Gata
+              <span class="glyphicon glyphicon-map-marker"></span> Paseo Marítimo, 72 Cabo De Gata
             </p>
             <p>
               Te brindamos total comodidad. Date prisa ahora para alquilar tu apartamento.
@@ -44,7 +44,7 @@
           </h2>
           <blockquote>
             <p class="location">
-              <span class="glyphicon glyphicon-map-marker"></span> Paseo Maritimi, 72 Cabo De Gata
+              <span class="glyphicon glyphicon-map-marker"></span> Paseo Marítimo, 72 Cabo De Gata
             </p>
             <p>
               Te brindamos total comodidad. Date prisa ahora para alquilar tu apartamento.

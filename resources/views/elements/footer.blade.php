@@ -50,8 +50,7 @@
                 <h4>Contacto</h4>
                 <p>
                     <b>Miradores Cabo De Gata</b><br />
-                    <span class="glyphicon glyphicon-map-marker"></span> Paseo
-                    Maritimo, 72 Cabo De Gata <br />
+                    <span class="glyphicon glyphicon-map-marker"></span> Paseo Marítimo, 72 Cabo De Gata <br />
                     <span class="glyphicon glyphicon-envelope"></span>
                     iretoto@hotmail.es<br />
                     <span class="glyphicon glyphicon-earphone"></span> +34 635 36 71
